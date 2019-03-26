@@ -1,0 +1,27 @@
+﻿Build started 8/27/2017 9:24:08 PM.
+     1>Project "C:\Users\SAURABH\Documents\C++ practice\fiborec\fiborec\fiborec.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\fiborec.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\SAURABH\Documents\C++ practice\fiborec\Debug\fiborec.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\fiborec.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\SAURABH\Documents\C++ practice\fiborec\Debug\fiborec.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\SAURABH\Documents\C++ practice\fiborec\Debug\fiborec.lib" /MACHINE:X86 Debug\fiborec.exe.embed.manifest.res
+         Debug\fiborec.obj
+         Debug\stdafx.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\fiborec.exe.embed.manifest" /manifest Debug\fiborec.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         fiborec.vcxproj -> C:\Users\SAURABH\Documents\C++ practice\fiborec\Debug\fiborec.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\fiborec.unsuccessfulbuild".
+         Touching "Debug\fiborec.lastbuildstate".
+     1>Done Building Project "C:\Users\SAURABH\Documents\C++ practice\fiborec\fiborec\fiborec.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.34

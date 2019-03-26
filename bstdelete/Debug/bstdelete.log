@@ -1,0 +1,4 @@
+﻿  bstdelete.cpp
+c:\users\saurabh\documents\c++ practice\bstdelete\bstdelete\bstdelete.cpp(108): warning C4715: 'insertbst': not all control paths return a value
+  bstdelete.vcxproj -> C:\Users\SAURABH\Documents\C++ practice\bstdelete\Debug\bstdelete.exe
+  bstdelete.vcxproj -> C:\Users\SAURABH\Documents\C++ practice\bstdelete\Debug\bstdelete.pdb (Partial PDB)
